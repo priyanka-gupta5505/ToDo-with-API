@@ -3,5 +3,5 @@ Coding Ninjas Course
 
 Type 'TodoListApp.getDummyTodos()' in console to fetch default todos from jsonplaceholder website.
 
-URL: https://anshuljain05.github.io/Todo-App/
+URL: https://priyanka-gupta5505.github.io/ToDo-with-API/
 "# ToDo-with-API-CALLS" 
